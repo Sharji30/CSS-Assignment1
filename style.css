@@ -1,0 +1,46 @@
+h1 {
+    background-color: steelblue;
+    color: black;
+    font-size: 60px;
+}
+
+h1:hover {
+    background-color: rgb(12, 12, 145);
+    ;
+    color: red;
+    font-style: italic;
+}
+
+.p1 {
+    color: purple;
+    font-size: 30px;
+}
+
+.p1:hover {
+    background-color: black;
+    color: goldenrod;
+}
+
+.p2 {
+    color: goldenrod;
+    background-color: yellow;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.p2:hover {
+    color: black;
+    background-color: turquoise;
+}
+
+.p3 {
+    color: black;
+    background-color: rgb(132, 194, 132);
+    font-size: 20px;
+}
+
+.p3:hover {
+    font-weight: 800;
+    text-transform: uppercase;
+    background-color: bisque;
+}
